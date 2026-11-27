@@ -1,0 +1,50 @@
+[
+  {
+    "file": "exotic-apex.mp3",
+    "title": "Exotic: APEX",
+    "artist": "Sol’s RNG",
+    "context": "reveal"
+  },
+  {
+    "file": "chromatic-exotic.mp3",
+    "title": "Chromatic Exotic",
+    "artist": "Sol’s RNG",
+    "context": "reveal"
+  },
+  {
+    "file": "solar-damnation.mp3",
+    "title": "Solar Damnation",
+    "artist": "Tower Defense Simulator",
+    "context": "boss"
+  },
+  {
+    "file": "wait-and-bleed.mp3",
+    "title": "Wait and Bleed",
+    "artist": "Slipknot",
+    "context": "boss"
+  },
+  {
+    "file": "everlong.mp3",
+    "title": "Everlong",
+    "artist": "Foo Fighters",
+    "context": "world"
+  },
+  {
+    "file": "upswingin.mp3",
+    "title": "Upswingin’",
+    "artist": "Whiplash soundtrack",
+    "context": "world"
+  },
+  {
+    "file": "caravan.mp3",
+    "title": "Caravan",
+    "artist": "Provided track",
+    "context": "dungeon"
+  },
+  {
+    "file": "jane.mp3",
+    "title": "Jane!",
+    "artist": "Provided track",
+    "context": "world"
+  }
+]
